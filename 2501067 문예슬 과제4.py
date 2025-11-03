@@ -36,7 +36,7 @@ print(lim.items())
 # 과제 30
 choi = {'korean': 94, 'english': 91, 'mathematics': 89, 'science':83}
 x = {key : value for key, value in choi.items() if value >= 90}
-print(x.keys)
+print(x.keys())
 
 # 과제 31
 yoo = {'korean': 94, 'english': 91, 'mathematics': 89, 'science':83}
